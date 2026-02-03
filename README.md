@@ -8,12 +8,8 @@ Repository for projects in the area of ​​data science. Here are projects tha
 - Data Driven.
 
 ## Technologies
-- pure Python3;
+- Python3;
 - Python3 libraries: pandas, numpy, urllib, matplotlib, sklearn, keras, tensorflow, among others;
-
-## Contact
-- Social networks:https://github.com/AndersonCSM
-- Contact email: andersoncarlos799@gmail.com
 
 ---
 ## Sobre
@@ -26,11 +22,7 @@ Repositório para projetos na área de ciência de dados. Aqui estão projetos q
 - Data Driven.
 
 ## Tecnologias
-- Python3 puro;
+- Python3;
 - Bibliotecas Python3: pandas, numpy, urllib, matplotlib, sklearn, keras, tensorflow, entre outros;
-
-## Contato
-- Redes sociais:https://github.com/AndersonCSM
-- email de contato: andersoncarlos799@gmail.com
 
 ---
